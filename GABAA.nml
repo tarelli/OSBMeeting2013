@@ -3,7 +3,7 @@
 
     <notes>ChannelML file describing a synaptic mechanism</notes>
 
-    <expTwoSynapse id="GABAA" tauRise="3.1E-4s" tauDecay="0.0088333s" gbase="3.14159E-10S" erev="-0.07V">
+    <expTwoSynapse id="GABAA" tauRise="3.1E-4s" tauDecay="0.0088333s" gbase="4.14159E-10S" erev="-0.07V">
 
         <notes>GABA A synaptic mechamism from Golgis to Granule cells</notes>
 </expTwoSynapse>
